@@ -1,0 +1,3 @@
+C:/Algoritms/lw2/cmake-build-debug/CMakeFiles/lw2.dir
+C:/Algoritms/lw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algoritms/lw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
